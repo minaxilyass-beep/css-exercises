@@ -23,6 +23,7 @@ body {
   padding: 24px;
   display: flex;
   gap: 16px;
+  align-items: flex-start;
 }
 .header-container {
   display: flex;
